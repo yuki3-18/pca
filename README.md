@@ -1,2 +1,2 @@
-# pca
-pca_python
+# PCA
+Principal Component Analysis by python
